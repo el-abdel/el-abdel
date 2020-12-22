@@ -2,9 +2,7 @@
 
 I am a Devops enthusiast and full-stack software enginee. I am passionate about technology and like to learn new things.
 
-<div style="float: right;width: 500px;height: 320px;overflow: hidden;">
-    <img alt="GIF" src="./media/code.gif?raw=true" style="float: right; margin: -20px"/>
-</div> 
+<img alt="GIF" align="right" src="./media/code.gif?raw=true" width="400"/>
 
 
 - 🔭 I’m currently working on web developpement and microservices technologies
