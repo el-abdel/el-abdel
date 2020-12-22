@@ -33,6 +33,10 @@ I am a Devops enthusiast and full-stack software enginee. I am passionate about 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js&style=flat-square)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-000?logo=Angular&logoColor=ff0000&style=flat-square)&nbsp;
 
+## 📫 Get in touch
+- LinkedIn - [Abdellah Elmakhroubi](http://linkedin.com/in/abdellah-elmakhroubi-ba938885)
+- Twitter - [@_abdel_el](https://twitter.com/_abdel_el)
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -41,10 +45,6 @@ I am a Devops enthusiast and full-stack software enginee. I am passionate about 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=el-abdel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-## 📫 Get in touch
-- LinkedIn - [Abdellah Elmakhroubi](http://linkedin.com/in/abdellah-elmakhroubi-ba938885)
-- Twitter - [@_abdel_el](https://twitter.com/_abdel_el)
 
 
 
