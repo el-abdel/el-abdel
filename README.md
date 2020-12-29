@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am **Rick Sanchez**. I love science and drinking hahaha, Kidding...
-
 I am a Devops enthusiast and full-stack software engineer. I am passionate about technology and like to learn new things.
 
 <img alt="GIF" align="right" src="./media/code.gif?raw=true" width="400"/>
