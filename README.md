@@ -8,7 +8,7 @@ I am a Devops enthusiast and full-stack software engineer. I am passionate about
 - 🔭 I’m currently working on web developpement and microservices technologies
 - 🌱 I'm a knowledge seeker & I love to learn new Technologies.
 - 🦾 Futur goals: never stop creating new ideas
-- 🤝 Open for collaborations in web development
+- 🤝 Open for collaborations
 
 
 </br>
