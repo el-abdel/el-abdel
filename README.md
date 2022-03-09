@@ -32,6 +32,7 @@ I am a Devops enthusiast and full-stack software engineer. I am passionate about
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux&logoColor=FCC624&style=flat-square)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js&style=flat-square)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-000?logo=Angular&logoColor=ff0000&style=flat-square)&nbsp;
+![VueJs](https://img.shields.io/badge/Vue.js-000?style=flat-squar&logo=vue.js&logoColor=4FC08D)&nbsp;
 
 ## 📫 Get in touch
 - LinkedIn - [Abdellah Elmakhroubi](http://linkedin.com/in/abdellah-elmakhroubi-ba938885)
