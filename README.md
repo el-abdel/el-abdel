@@ -2,17 +2,12 @@
 
 I am a Devops enthusiast and full-stack software engineer. I am passionate about technology and like to learn new things.
 
-<img alt="GIF" align="right" src="./media/code.gif?raw=true" width="400"/>
-
 
 - 🔭 I’m currently working on web developpement and microservices technologies
 - 🌱 I'm a knowledge seeker & I love to learn new Technologies.
 - 🦾 Futur goals: never stop creating new ideas
 - 🤝 Open for collaborations
 
-
-</br>
-</br>
 </br>
 
 
@@ -32,11 +27,12 @@ I am a Devops enthusiast and full-stack software engineer. I am passionate about
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux&logoColor=FCC624&style=flat-square)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js&style=flat-square)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-000?logo=Angular&logoColor=ff0000&style=flat-square)&nbsp;
+![NGRX](https://img.shields.io/badge/-NGRX-000?&logo=NGRX&style=flat-square)&nbsp;
 ![VueJs](https://img.shields.io/badge/Vue.js-000?style=flat-squar&logo=vue.js&logoColor=4FC08D)&nbsp;
 
 ## 📫 Get in touch
 - LinkedIn - [Abdellah Elmakhroubi](http://linkedin.com/in/abdellah-elmakhroubi-ba938885)
-- Twitter - [@_abdel_el](https://twitter.com/_abdel_el)
+- X (Twitter) - [@_abdel_el](https://x.com/_abdel_el)
 
 ## 📊 GitHub Analytics
 
@@ -46,9 +42,3 @@ I am a Devops enthusiast and full-stack software engineer. I am passionate about
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=el-abdel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-
-<!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=el-abdel/el-abdel)
--->
