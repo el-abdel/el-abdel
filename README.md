@@ -31,11 +31,6 @@ I am a Devops enthusiast and full-stack software engineer. I am passionate about
 ![NGRX](https://img.shields.io/badge/NGRX-000?&logo=NGRX&style=flat-square)&nbsp;
 ![VueJs](https://img.shields.io/badge/Vue.js-000?style=flat-squar&logo=vue.js&logoColor=4FC08D)&nbsp;
 
-## 📫 Get in touch
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_abdel_el)&nbsp;
-
-
-
 ## 📊 GitHub Analytics
 
 <p align="center">
