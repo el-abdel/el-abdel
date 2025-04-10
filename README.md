@@ -32,8 +32,9 @@ I am a Devops enthusiast and full-stack software engineer. I am passionate about
 ![VueJs](https://img.shields.io/badge/Vue.js-000?style=flat-squar&logo=vue.js&logoColor=4FC08D)&nbsp;
 
 ## 📫 Get in touch
-- LinkedIn - [Abdellah Elmakhroubi](http://linkedin.com/in/abdellah-elmakhroubi-ba938885)
-- X (Twitter) - [@_abdel_el](https://x.com/_abdel_el)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_abdel_el)&nbsp;
+
+
 
 ## 📊 GitHub Analytics
 
