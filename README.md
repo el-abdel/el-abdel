@@ -35,7 +35,7 @@ I am a Devops enthusiast and full-stack software engineer. I am passionate about
 
 <p align="center">
 <a href="https://github.com/el-abdel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=el-abdel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=el-abdel&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=el-abdel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=el-abdel&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
